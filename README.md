@@ -1,1 +1,2 @@
 # DataBinding
+mvn clean test
